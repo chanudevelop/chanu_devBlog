@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "찬이의 개발블로그"
+title: "찬이의 개발일지"
 
 tagline: "AI와 백엔드, 그리고 인프라를 학습합니다."
 
@@ -31,7 +31,7 @@ twitter:
   username:
 
 social:
-  name: "chanwoo"
+  name: "김찬우"
   email: "chanu.develop@gmail.com"
   links:
     - "https://github.com/chanudevelop"
