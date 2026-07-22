@@ -32,8 +32,9 @@ twitter:
 
 social:
   name: "chanwoo"
-  email:
+  email: "chanu.develop@gmail.com"
   links:
+    - "https://github.com/chanudevelop"
 
 # Site Verification Settings
 webmaster_verifications:
